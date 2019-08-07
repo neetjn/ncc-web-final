@@ -6,7 +6,7 @@
 
 This project consists of my final project for my Web Development I course at the Nashua Community College. This website was written in a two hour sitting, drafted from a list of random (fake) companies provided by my professor.
 
-NCC Web Final Dec, 2015
+Date: Dec 2015
 
 ---
 
