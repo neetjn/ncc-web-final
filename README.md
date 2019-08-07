@@ -9,6 +9,7 @@ This project consists of my final project for my Web Development II course at th
 ## What I learned
 
 * Design responsive first, it's much easier to design responsive first with less content and work into larger view ports. When designing from a larger viewport as your target, it becomes much more difficult to decide what content to strip out and how to structure.
+* Design with accessibility in mind. Though it may be fun and interesting to try non comformative designs for navigations, and displaying data -- account for disabled consumers and how difficult it may be for them to traverse through your website.
 * Never work from a static wireframe, also design from the assumption of dynamic content even if you're provided static data.
 * Colors are **important**. **Never** understimate the effects color can have on a given webpage. Colors can help guide the user's focus, suggest feelings and emotions, and more important make content easier to consume.
 
